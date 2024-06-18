@@ -2,7 +2,7 @@
 #include "GameScreen.h"
 #include "GameScreenLevel1.h"
 
-
+//goofy aH COMUnIST
 
 GameScreenManager::GameScreenManager(SDL_Renderer* renderer, SCREENS startScreen)
 {
