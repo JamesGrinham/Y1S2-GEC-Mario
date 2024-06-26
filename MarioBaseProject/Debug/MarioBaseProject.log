@@ -1,22 +1,19 @@
-﻿  GameScreenManager.cpp
-D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\GameScreenManager.cpp(57,9): warning C4101: 'g_old_time': unreferenced local variable
-  Source.cpp
-  Generating Code...
-  MarioBaseProject.vcxproj -> D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\Debug\MarioBaseProject.exe
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libFLAC-8.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libjpeg-9.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libmodplug-1.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libmpg123-0.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libogg-0.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libopus-0.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libopusfile-0.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libpng16-16.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libtiff-5.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libvorbis-0.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libvorbisfile-3.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\libwebp-7.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\SDL2.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\SDL2_image.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\SDL2_mixer.dll
-  D:\Users\jamison.gnj\Desktop\BaseMarioProject-main\BaseMarioProject-main\MarioBaseProject\SDL2\DLL\zlib1.dll
+﻿  Source.cpp
+  MarioBaseProject.vcxproj -> C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\Debug\MarioBaseProject.exe
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libFLAC-8.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libjpeg-9.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libmodplug-1.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libmpg123-0.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libogg-0.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libopus-0.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libopusfile-0.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libpng16-16.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libtiff-5.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libvorbis-0.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libvorbisfile-3.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\libwebp-7.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\SDL2.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\SDL2_image.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\SDL2_mixer.dll
+  C:\Users\Admin\Documents\GitHub\Y1S2-GEC-Mario\MarioBaseProject\SDL2\DLL\zlib1.dll
   16 File(s) copied
